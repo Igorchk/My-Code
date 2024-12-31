@@ -1,0 +1,15 @@
+Chocolate
+Chair
+Panda
+Pizza
+Skateboard
+Elephant
+Guitar
+Clock
+Soccer Ball
+Moon
+Telescope
+Watermelon
+Cloud
+Lemon
+END

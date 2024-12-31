@@ -1,0 +1,1 @@
+Main.java was a small program I wrote to test the LinkedList. I decided to include just cause why not, might make your life easier testing the the LinkedList.java

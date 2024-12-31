@@ -1,0 +1,14 @@
+Book
+Bicycle
+Cat
+Moon
+Sun
+Mountain
+Sandcastle
+Hat
+Microphone
+Lamp
+Globe
+Telescope
+Orange
+END
